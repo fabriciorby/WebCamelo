@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+    /* Remove the navbar's default rounded borders and increase the bottom margin */
+    .navbar {
+      margin-bottom: 0px;
+      border-radius: 0;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */
+
+    .jumbotron {
+  	margin-bottom: 0;
+    /*background-color: #f4511e;*/
+    /*color: #fff;*/
+    padding: 100px 25px;
+	}
+	
+	.container-home{
+	padding: 60px 50px;
+	}
+	
+	.bg-grey {
+    background-color: #f6f6f6;
+	}
+	.logo {
+    font-size: 200px;
+	}
+	@media screen and (max-width: 768px) {
+	    .col-sm-4 {
+	        text-align: center;
+	        margin: 25px 0;
+	    }
+	}
+	.preco{
+    font-size: 25px;
+	}
+	.comprar{
+    font-size: 25px;
+	}
+	.vertical-align {
+    display: flex;
+    align-items: center;
+	}
+	.navbar-nav li a:hover, .navbar-nav li.active a {
+    background-color: #080808 !important;
+	}
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #222;
+      color: #9d9d9d;
+      padding-top: 10px;
+    }
