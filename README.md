@@ -14,6 +14,6 @@ It may need Eclipse Java EE, Apache Tomcat and MySQL to run.
  
 Once it's running, you can create your own account and put things to sell.<br>You may also create another account to buy the things you're selling and etc.<br>All the money is at a very fake virtual wallet.
 
-Have fun!
+Just go to http://localhost:8080/WebCamelo/ and have fun!
 
 Read "Relatório WebCamelo.pdf" file for more details. (PT-BR)
