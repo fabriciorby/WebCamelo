@@ -7,12 +7,12 @@ It may need Eclipse Java EE, Apache Tomcat and MySQL to run.
 
 ## Screenshots
  * [Homepage](http://fabriciorby.me/img/projects/webcamelo/1.png)
- * [Products](http://fabriciorby.me/img/projects/webcamelo/2.png)
  * [Login](http://fabriciorby.me/img/projects/webcamelo/3.png)
  * [Register](http://fabriciorby.me/img/projects/webcamelo/4.png)
  * [Profile](http://fabriciorby.me/img/projects/webcamelo/5.png)
  * [Deposit](http://fabriciorby.me/img/projects/webcamelo/6.png)
- * [Product Info](http://fabriciorby.me/img/projects/webcamelo/7.png)
+ * [Products](http://fabriciorby.me/img/projects/webcamelo/2.png)
+ * [Buy Product](http://fabriciorby.me/img/projects/webcamelo/7.png)
  * [Sell Product](http://fabriciorby.me/img/projects/webcamelo/8.png)
 
 ## Instalation
