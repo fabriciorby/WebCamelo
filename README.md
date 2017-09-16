@@ -17,3 +17,5 @@ Once it's running, you can create your own account and put things to sell.<br>Yo
 Just go to http://localhost:8080/WebCamelo/ and have fun!
 
 Read "Relatório WebCamelo.pdf" file for more details. (PT-BR)
+
+Date: 08/2016
