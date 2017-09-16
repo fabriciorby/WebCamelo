@@ -15,8 +15,7 @@ It may need Eclipse Java EE, Apache Tomcat and MySQL to run.
  * [Product Info](http://fabriciorby.me/img/projects/webcamelo/7.png)
  * [Sell Product](http://fabriciorby.me/img/projects/webcamelo/8.png)
 
-## Installing Steps
-
+## Instalation
  1.  Import the sql file to your MySQL database (I used login:root pw:root, so you may change it at ConexaoBD.java file).
  2.  Import to Eclipse as Maven Project.
  3.  Set the server you would like to run the project (I used Apache Tomcat).
